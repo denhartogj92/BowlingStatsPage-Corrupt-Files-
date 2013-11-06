@@ -6,7 +6,7 @@
         <link href="./css/frontpage.css" type="text/css" rel="stylesheet" />
     </head>
     <body id='pagecolor'>
-    <a href="http://localhost/BowlingStatsHomepage/Admin_Login_Request.php"><input class='admin' style="width:175px; height:30px;" type="submit" value="Request Login Access"/><br/>
+    <a href="http://localhost/BowlingHomepage/Admin_Login_Request.php"><input class='admin' style="width:175px; height:30px;" type="submit" value="Request Login Access"/><br/>
             </a>
     
     <center><image id='wmpenn' src="images/wpulogo.jpg" alt="William Penn Logo" /></center>
@@ -16,22 +16,22 @@
                 <ul><a href="NEED QUALIFYING WEBSITE"><input type="submit" value="BOWLING SCHEDULE"/><br/>
             </a>
                 </ul>
-                <ul><a href="http://localhost/BowlingStats/roster.php"><input type="submit" value="TEAM ROSTER"/><br/>
+                <ul><a href="http://localhost/BowlingHomePage/roster.php"><input type="submit" value="TEAM ROSTER"/><br/>
             </a>
                 </ul>
-                <ul><a href="http://localhost/BowlingStats/MainStats.php"><input type="submit" value="TEAM STATISTICS"/><br/>
+                <ul><a href="http://localhost/BowlingHomePage/MainStats.php"><input type="submit" value="TEAM STATISTICS"/><br/>
             </a>
                 </ul>
                 </ol>
         </div>
         <br/>
         <div>
-        <hr/>
+<!--        <hr/>-->
         <br/>
-            <p style="color:red;"><center><strong>I will be putting Jquery in here so we will have a bunch of pictures</center></strong></p>
-            <p style="color:gold;"><center><strong>of the bowlers moving around in a carousel fashion.</center></strong></p>
+            <p class="instruction"><center><strong>I will be putting Jquery in here so we will have a bunch of pictures</center></strong></p>
+            <p class="instruction"><center><strong>of the bowlers moving around in a carousel fashion.</center></strong></p>
         <br/>
-        <hr/>
+<!--        <hr/>-->
         </div>
         <div>
             <h2><strong>Social Media</strong></h2>
